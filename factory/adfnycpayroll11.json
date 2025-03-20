@@ -1,0 +1,9 @@
+{
+	"name": "adfnycpayroll11",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "899fb1b0-b94b-4048-bfa2-d63d8e40b09a",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
